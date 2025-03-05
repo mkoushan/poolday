@@ -1,0 +1,129 @@
+Task 32 with exe_time 68 and arrive_time 5
+Task 28 with exe_time 64 and arrive_time 10
+Task 25 with exe_time 97 and arrive_time 15
+Task 29 with exe_time 57 and arrive_time 21
+Task 26 with exe_time 60 and arrive_time 34
+Task 30 with exe_time 80 and arrive_time 36
+Task 23 with exe_time 70 and arrive_time 38
+Task 27 with exe_time 87 and arrive_time 41
+Task 31 with exe_time 94 and arrive_time 44
+Task 22 with exe_time 90 and arrive_time 48
+Task 9 with exe_time 27 and arrive_time 51
+Task 24 with exe_time 84 and arrive_time 52
+Task 17 with exe_time 28 and arrive_time 53
+Task 3 with exe_time 29 and arrive_time 54
+Task 21 with exe_time 30 and arrive_time 55
+Task 7 with exe_time 33 and arrive_time 58
+Task 15 with exe_time 32 and arrive_time 59
+Task 1 with exe_time 39 and arrive_time 61
+Task 12 with exe_time 35 and arrive_time 62
+Task 6 with exe_time 24 and arrive_time 65
+Task 20 with exe_time 23 and arrive_time 66
+Task 10 with exe_time 42 and arrive_time 69
+Task 4 with exe_time 46 and arrive_time 71
+Task 18 with exe_time 45 and arrive_time 72
+Task 16 with exe_time 18 and arrive_time 75
+Task 8 with exe_time 16 and arrive_time 79
+Task 13 with exe_time 14 and arrive_time 81
+Task 2 with exe_time 17 and arrive_time 82
+Task 5 with exe_time 11 and arrive_time 88
+Task 19 with exe_time 12 and arrive_time 89
+Task 11 with exe_time 20 and arrive_time 93
+Task 14 with exe_time 26 and arrive_time 96
+Adding task 32 with exe_time 68
+Executing task 32 with exe_time 68
+Adding task 28 with exe_time 64
+Adding task 25 with exe_time 97
+Adding task 29 with exe_time 57
+Adding task 26 with exe_time 60
+Adding task 30 with exe_time 80
+Adding task 23 with exe_time 70
+Adding task 27 with exe_time 87
+Adding task 31 with exe_time 94
+Adding task 22 with exe_time 90
+Adding task 9 with exe_time 27
+Adding task 24 with exe_time 84
+Adding task 17 with exe_time 28
+Adding task 3 with exe_time 29
+Adding task 21 with exe_time 30
+Adding task 7 with exe_time 33
+Adding task 15 with exe_time 32
+Adding task 1 with exe_time 39
+Adding task 12 with exe_time 35
+Adding task 6 with exe_time 24
+Executing task 28 with exe_time 64
+Adding task 20 with exe_time 23
+Adding task 10 with exe_time 42
+Adding task 4 with exe_time 46
+Adding task 18 with exe_time 45
+Adding task 16 with exe_time 18
+Adding task 8 with exe_time 16
+Adding task 13 with exe_time 14
+Adding task 2 with exe_time 17
+Adding task 5 with exe_time 11
+Adding task 19 with exe_time 12
+Adding task 11 with exe_time 20
+Adding task 14 with exe_time 26
+All tasks has been added successfully.
+Executing task 29 with exe_time 57
+Executing task 25 with exe_time 97
+Executing task 30 with exe_time 80
+Executing task 27 with exe_time 87
+Executing task 26 with exe_time 60
+Executing task 23 with exe_time 70
+Task 29 has been done with thread 0
+Executing task 31 with exe_time 94
+Task 26 has been done with thread 6
+Executing task 22 with exe_time 90
+Task 28 has been done with thread 7
+Executing task 9 with exe_time 27
+Task 32 has been done with thread 4
+Executing task 24 with exe_time 84
+Task 23 has been done with thread 1
+Executing task 17 with exe_time 28
+Task 30 has been done with thread 5
+Executing task 3 with exe_time 29
+Task 27 has been done with thread 3
+Executing task 21 with exe_time 30
+Task 9 has been done with thread 7
+Executing task 7 with exe_time 33
+Task 25 has been done with thread 2
+Executing task 15 with exe_time 32
+Task 17 has been done with thread 1
+Executing task 1 with exe_time 39
+Task 3 has been done with thread 5
+Executing task 12 with exe_time 35
+Task 21 has been done with thread 3
+Executing task 6 with exe_time 24
+Task 7 has been done with thread 7
+Executing task 20 with exe_time 23
+Task 15 has been done with thread 2
+Executing task 10 with exe_time 42
+Task 1 has been done with thread 1
+Executing task 4 with exe_time 46
+Task 6 has been done with thread 3
+Executing task 18 with exe_time 45
+Task 12 has been done with thread 5
+Executing task 16 with exe_time 18
+Task 20 has been done with thread 7
+Executing task 8 with exe_time 16
+Task 22 has been done with thread 6
+Executing task 13 with exe_time 14
+Task 31 has been done with thread 0
+Executing task 2 with exe_time 17
+Task 24 has been done with thread 4
+Executing task 5 with exe_time 11
+Task 16 has been done with thread 5
+Executing task 19 with exe_time 12
+Task 8 has been done with thread 7
+Executing task 11 with exe_time 20
+Task 5 has been done with thread 4
+Executing task 14 with exe_time 26
+Task 13 has been done with thread 6
+Task 2 has been done with thread 0
+Task 10 has been done with thread 2
+Task 19 has been done with thread 5
+Task 11 has been done with thread 7
+Task 4 has been done with thread 1
+Task 18 has been done with thread 3
+Task 14 has been done with thread 4

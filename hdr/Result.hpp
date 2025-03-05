@@ -1,3 +1,0 @@
-#pragma once
-
-enum class Result {SUCCESS,FAILURE,NO_AVAILABLE_THREAD,INITIALIZATION_FAILED };

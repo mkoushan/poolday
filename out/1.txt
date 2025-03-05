@@ -1,0 +1,14 @@
+Number of tasks = 3
+Task 1 with exe_time 10 and arrive_time 1
+Task 2 with exe_time 10 and arrive_time 2
+Task 3 with exe_time 10 and arrive_time 3
+Adding task 1 with exe_time 10
+Adding task 2 with exe_time 10
+Adding task 3 with exe_time 10
+All tasks has been added successfully.
+Executing task 1 with exe_time 10
+Executing task 2 with exe_time 10
+Executing task 3 with exe_time 10
+Task 2 has been done with thread 6
+Task 3 has been done with thread 1
+Task 1 has been done with thread 2

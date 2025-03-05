@@ -1,0 +1,10 @@
+#pragma once
+
+enum class Result {
+  ONGOING,
+  SUCCESS,
+  FAILURE,
+  NO_AVAILABLE_THREAD,
+  INITIALIZATION_FAILED,
+  TASK_COMPLETED,
+};
